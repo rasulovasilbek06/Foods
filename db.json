@@ -1,0 +1,7 @@
+{
+    "foods":[{
+        "breakfast": "breakfast",
+        "lunch": "lunch",
+        "dinner": "dinner"
+    }]
+}
